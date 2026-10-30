@@ -1,0 +1,37 @@
+name,role,type,demographic,description,units,missing_values
+Age,Feature,Integer,Age,,,no
+Number of sexual partners,Feature,Continuous,Other,,,yes
+First sexual intercourse,Feature,Continuous,,,,yes
+Num of pregnancies,Feature,Continuous,,,,yes
+Smokes,Feature,Continuous,,,,yes
+Smokes (years),Feature,Continuous,,,,yes
+Smokes (packs/year),Feature,Continuous,,,,yes
+Hormonal Contraceptives,Feature,Continuous,,,,yes
+Hormonal Contraceptives (years),Feature,Continuous,,,,yes
+IUD,Feature,Continuous,,,,yes
+IUD (years),Feature,Continuous,,,,yes
+STDs,Feature,Continuous,,,,yes
+STDs (number),Feature,Continuous,,,,yes
+STDs:condylomatosis,Feature,Continuous,,,,yes
+STDs:cervical condylomatosis,Feature,Continuous,,,,yes
+STDs:vaginal condylomatosis,Feature,Continuous,,,,yes
+STDs:vulvo-perineal condylomatosis,Feature,Continuous,,,,yes
+STDs:syphilis,Feature,Continuous,,,,yes
+STDs:pelvic inflammatory disease,Feature,Continuous,,,,yes
+STDs:genital herpes,Feature,Continuous,,,,yes
+STDs:molluscum contagiosum,Feature,Continuous,,,,yes
+STDs:AIDS,Feature,Continuous,,,,yes
+STDs:HIV,Feature,Continuous,,,,yes
+STDs:Hepatitis B,Feature,Continuous,,,,yes
+STDs:HPV,Feature,Continuous,,,,yes
+STDs: Number of diagnosis,Feature,Integer,,,,no
+STDs: Time since first diagnosis,Feature,Continuous,,,,yes
+STDs: Time since last diagnosis,Feature,Continuous,,,,yes
+Dx:Cancer,Feature,Integer,,,,no
+Dx:CIN,Feature,Integer,,,,no
+Dx:HPV,Feature,Integer,,,,no
+Dx,Feature,Integer,,,,no
+Hinselmann,Feature,Integer,,,,no
+Schiller,Feature,Integer,,,,no
+Citology,Feature,Integer,,,,no
+Biopsy,Feature,Integer,,,,no
